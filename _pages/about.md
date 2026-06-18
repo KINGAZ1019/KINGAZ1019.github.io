@@ -52,6 +52,21 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
+# Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/xfreq-gs-overview.png' alt="XFreq-GS overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[XFreq-GS: Cross-Frequency Wireless Radiation Field Reconstruction with 3D Gaussian Splatting](https://arxiv.org/abs/2605.11432)
+
+**Sheng Wang**, Hengtao He, Chaozheng Wen, Jingwen Tong, Xinyu Li, Xiao Li, Jun Zhang, Shi Jin
+
+[**arXiv**](https://arxiv.org/abs/2605.11432) \| [**Code**](https://github.com/KINGAZ1019/XFreq-GS)
+
+- We propose XFreq-GS, a cross-frequency Gaussian splatting framework for wireless radiation field reconstruction and power angular spectrum synthesis.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - **National Scholarship** (23-24 Academic Year, Top 2%), 2024.
 - **President Scholarship of Southeast University** (22-23 Academic Year, Top 1%), 2023.
