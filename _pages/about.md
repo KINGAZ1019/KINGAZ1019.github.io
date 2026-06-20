@@ -52,7 +52,7 @@ If you are interested in my work, please feel free to drop me an [email](mailto:
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# Publications
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/xfreq-gs-overview.png' alt="XFreq-GS overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
