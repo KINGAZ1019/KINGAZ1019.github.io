@@ -50,6 +50,23 @@
   display: none !important;
 }
 
+.masthead__home-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45em;
+}
+
+.masthead__home-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.25em;
+  height: 1.25em;
+  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+  font-size: 1.15em;
+  line-height: 1;
+}
+
 .masthead__menu-item {
   display: block;
   list-style-type: none;
